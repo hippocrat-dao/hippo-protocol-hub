@@ -1,7 +1,7 @@
 {
   "app_name": "hippo",
   "app_version": "v1.0.0",
-  "genesis_time": "2025-04-09T05:12:49.912647026Z",
+  "genesis_time": "2025-04-16T02:18:35.525583534Z",
   "chain_id": "hippo-protocol-1",
   "initial_height": 1,
   "app_hash": null,
